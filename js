@@ -4,6 +4,8 @@
 // @version      1.0
 // @description  Bypass Rip.Linkvertise.lol
 // @match        *://linkvertise.com/*
+// @downloadURL https://raw.githubusercontent.com/blan3bo1/userscript/refs/heads/main/js
+// @updateURL https://raw.githubusercontent.com/blan3bo1/userscript/refs/heads/main/js
 // ==/UserScript==
 
 (function() {
